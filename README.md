@@ -1,4 +1,4 @@
-# 🔌 Elektronik Temeller
+# 🔌 Elektronik Temelleri
 
 Bu repo, elektronik öğrenme sürecimde tuttuğum notları, yaptığım deneyleri ve hazırladığım kaynakları içerir.
 
